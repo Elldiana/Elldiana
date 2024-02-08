@@ -2,7 +2,7 @@
 - 👀 I’m interested in sewing and to play pool.
 - 🌱 I’m currently learning new languages and programming languages.
 - 💞️ I’m looking to collaborate on software-related projects.
-- 📫 How to reach me: You can reach me via my email address at belekova1111@gmail.com or through my social media accounts.
+- 📫 You can reach me via my email address at belekova1111@gmail.com or through my social media accounts.
 - ⚡ Fun fact: I always prefer to think positively to have happy dreams.
 <!---
 Elldiana/Elldiana is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
