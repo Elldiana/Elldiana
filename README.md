@@ -16,6 +16,6 @@ Computer Programming graduate and Management Information Systems student, intere
 - Co-authored and presented the research paper *"Bilgisayar Programcılığı Öğrencilerinin Yapay Zeka Okuryazarlık Düzeylerinde Sınıf Düzeyi ve Yapay Zeka Eğitiminin Rolü"*, with data analysis and visualization in Python
 - ([abstract book](https://educongress.org/wp-content/uploads/2026/10/EDUCongress-2026-Ozet-Kitabi.pdf), [İzmir University of Economics news](https://share.google/Zq3ozXE8z5C3W1KLQ))
 
-**Beyond code:** sewing, yoga, and languages: Russian, Kyrgyz, Turkish, English 
+**languages:** Russian, Kyrgyz, Turkish, English 
 
 *Think positively, keep learning, turn dreams into projects.*
